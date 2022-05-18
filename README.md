@@ -2,6 +2,8 @@
 
 
 Passionate about problem solving and coding.
+<li>E-mail: carlosjunior866@gmail.com
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
 <strong> Socials: </strong>
