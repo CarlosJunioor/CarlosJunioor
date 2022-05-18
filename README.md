@@ -1,9 +1,8 @@
 <h1> Hi my name is Carlos Junior 👋 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
 Passionate about problem solving and coding.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
 <strong> Socials: </strong>
 
@@ -16,6 +15,3 @@ Passionate about problem solving and coding.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosjunioor&show_icons=true&locale=en&layout=compact" alt="carlosjunioor" /></p>
- 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosjunioor&show_icons=true&locale=en" alt="carlosjunioor" /></p>
-
