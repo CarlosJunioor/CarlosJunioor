@@ -12,7 +12,7 @@ Passionate about problem solving and coding.
 <a href="https://www.linkedin.com/in/carlosjuniordev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlosjuniordev/" height="30" width="40" /></a>
 </p>
 
-<strong> Linguagens: </strong>
+<strong> Languages: </strong>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
