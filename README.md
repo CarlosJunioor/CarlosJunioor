@@ -1,7 +1,7 @@
-<h1> Hi my name is Carlos Junior 👋 </h1>
+<h1> Hi, i am Carlos Junior </h1>
 
+problem solver 
 
-Passionate about problem solving and coding.
 <li>E-mail: carlosjunior866@gmail.com
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
