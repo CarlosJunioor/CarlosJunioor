@@ -1,5 +1,6 @@
 <h1> Hi, i am Carlos Junior </h1>
 
+<img align="right" alt="GIF" src="https://github.com/CarlosJunioor/CarlosJunioor/blob/main/gif4.gif?raw=true" width="410"/>
 problem solver 
 
 <li>E-mail: carlosjunior866@gmail.com
