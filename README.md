@@ -5,7 +5,7 @@ SouJunior is OpenSource project that have 11.000 followers on LinkedIn and with 
 
 <li>E-mail: carlosjunior866@gmail.com
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
 <strong> Socials: </strong>
 
