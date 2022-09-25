@@ -24,6 +24,9 @@ SouJunior is Open-Source project that have 11.000 followers on LinkedIn and with
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+## Technologies im currently studying
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
 ## What i studied
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
