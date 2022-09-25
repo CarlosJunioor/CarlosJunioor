@@ -1,4 +1,4 @@
-# Hi, i am Carlos Junior
+# Hi 👋, I Am Carlos
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
