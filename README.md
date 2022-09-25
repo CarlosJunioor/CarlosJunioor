@@ -6,8 +6,7 @@
 SouJunior is Open-Source project that have 11.000 followers on LinkedIn and with 30 people at least working on the project.
 
 ## Here you can find my socials 
-https://img.shields.io/badge/Cloudsmith-187EB6?style=for-the-badge&logo=Cloudsmith&logoColor=white
-<strong> Socials: </strong>
+[![LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carlosjuniordev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlosjuniordev/" height="30" width="40" /></a>
