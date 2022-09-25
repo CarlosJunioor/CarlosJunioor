@@ -1,7 +1,7 @@
 <h1> Hi, i am Carlos Junior </h1>
 
-<img align="right" alt="GIF" src="https://github.com/CarlosJunioor/CarlosJunioor/blob/main/gif4.gif?raw=true" width="410"/>
-problem solver 
+From Retail Salesperson to self-taught Frontend Developer at SouJunior, working with Javascript, React.js, TypeScript.
+SouJunior is OpenSource project that have 11.000 followers on LinkedIn and with 30 people at least working on the project.
 
 <li>E-mail: carlosjunior866@gmail.com
  
