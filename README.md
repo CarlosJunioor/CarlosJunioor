@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
-From Retail Salesperson to self-taught Frontend Developer at SouJunior, working with Javascript, React.js, TypeScript.
+##Frontend Developer at SouJunior, working with Javascript, React.js, TypeScript.
 SouJunior is OpenSource project that have 11.000 followers on LinkedIn and with 30 people at least working on the project.
 
 <li>E-mail: carlosjunior866@gmail.com
