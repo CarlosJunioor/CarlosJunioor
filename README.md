@@ -3,10 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjunioor" /> </p>
 
 ### Frontend Developer at SouJunior, working with Javascript, React.js, TypeScript.
-SouJunior is OpenSource project that have 11.000 followers on LinkedIn and with 30 people at least working on the project.
+SouJunior is Open-Source project that have 11.000 followers on LinkedIn and with 30 people at least working on the project.
 
-<li>E-mail: carlosjunior866@gmail.com
-
+## Here you can find my socials 
 https://img.shields.io/badge/Cloudsmith-187EB6?style=for-the-badge&logo=Cloudsmith&logoColor=white
 <strong> Socials: </strong>
 
