@@ -35,4 +35,4 @@ SouJunior is Open-Source project that have 11.000 followers on LinkedIn and with
 
 ## Socials
 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ](https://dev.to/lelepg)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) ](https://dev.to/carlosjuniordev)
