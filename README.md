@@ -9,6 +9,7 @@ SouJunior is Open-Source project that have 11.000 followers on LinkedIn and with
 
 - SouJunior
 - Varona Esports Website
+- Crypto Aviation 
 - Soneca-Sorteio
 
 
