@@ -7,6 +7,10 @@ SouJunior is Open-Source project that have 11.000 followers on LinkedIn and with
 
 ## What Projects im currently doing?
 
+- SouJunior
+- Varona Esports Website
+- Soneca-Sorteio
+
 
 ## Technologies im currently using
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
