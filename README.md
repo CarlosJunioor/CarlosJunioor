@@ -15,7 +15,7 @@ I've been learning Web Development for 5 months and it has really grown on me! I
 SouJunior is Open-Source project that have ***11.000 followers*** on LinkedIn and with 30 people at least working on the project.<br>
 Passionate about **Web3** and NFT's
 
-## What Projects im currently doing?
+## Projects im currently working on
 
 - SouJunior
 - Varona Esports Website
