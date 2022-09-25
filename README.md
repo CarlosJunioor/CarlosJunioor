@@ -7,7 +7,7 @@ SouJunior is OpenSource project that have 11.000 followers on LinkedIn and with 
 
 <li>E-mail: carlosjunior866@gmail.com
 
-https://img.shields.io/badge/Cloudsmith-187EB6?style=for-the-badge&logo=Cloudsmith&logoColor=white
+<img>https://img.shields.io/badge/Cloudsmith-187EB6?style=for-the-badge&logo=Cloudsmith&logoColor=white</img>
 <strong> Socials: </strong>
 
 <p align="left">
