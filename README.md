@@ -9,7 +9,6 @@ src="https://img.shields.io/twitter/follow/CarlosJuniorDev?logo=twitter&style=fo
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/carlosjuniordev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlos-junior)
 [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@CarlosJuniordev)
-[![Gmail Badge](https://img.shields.io/badge/-carlosjunior866@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior866@gmail.com)](mailto:carlosjunior866@gmail.com)
 
 ### Frontend Developer at @SouJunior, working with Javascript, React.js, TypeScript.
 I've been learning Web Development for 5 months and it has really grown on me! It has become my passion to develop cool-looking websites that people love to use.<br>
