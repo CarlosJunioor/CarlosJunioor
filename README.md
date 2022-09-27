@@ -10,6 +10,9 @@ src="https://img.shields.io/twitter/follow/CarlosJuniorDev?logo=twitter&style=fo
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlos-junior)
 [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@CarlosJuniordev)
 
+[![@carlosjunior's Holopin board](https://holopin.io/api/user/board?user=carlosjunior)](https://holopin.io/@carlosjunior)
+
+
 ### Frontend Developer at @SouJunior, working with Javascript, React.js, TypeScript.
 I've been learning Web Development for 5 months and it has really grown on me! It has become my passion to develop cool-looking websites that people love to use.<br>
 SouJunior is Open-Source project that have ***11.000 followers*** on LinkedIn and with 30 people at least working on the project.<br>
