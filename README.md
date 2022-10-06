@@ -23,7 +23,6 @@ Passionate about **Web3** and NFT's
 - SouJunior
 - Varona Esports Website
 - Crypto Aviation 
-- Soneca-Sorteio
 
 
 ## Tech Stack
