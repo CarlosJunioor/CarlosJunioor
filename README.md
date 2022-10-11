@@ -7,9 +7,9 @@ src="https://img.shields.io/twitter/follow/CarlosJuniorDev?logo=twitter&style=fo
 />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjuniordev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/carlosjuniordev)
+[![Twitch.tv](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/insanity75)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlos-junior)
 [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@CarlosJuniordev)
-
 [![@carlosjunior's Holopin board](https://holopin.io/api/user/board?user=carlosjunior)](https://holopin.io/@carlosjunior)
 
 
