@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/CarlosJuniorDev?logo=twitter&style=fo
 
 Im currently doing a career shift from Salesperson to Frontend Development! <br>
 I've been learning Web Development for 6 months and it has really grown on me! It has become my passion to develop cool-looking websites that people love to use.<br>
-SouJunior is Open-Source project that have ***15.000 followers*** on LinkedIn and with 30 people at least working on the project.<br>
+SouJunior is Open-Source project that have ***14.000 followers*** on LinkedIn and with 30 people at least working on the project.<br>
 Passionate about **Web3** and NFT's
 
 ## Projects im currently working on
