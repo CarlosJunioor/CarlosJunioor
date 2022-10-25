@@ -47,7 +47,7 @@ Passionate about **Web3** and NFT's
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  ## Github Stats
+## Github Stats
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosJunioor&theme=react)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJunioor&layout=compact&theme=react&hide=c,java)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosJunioor&theme=react)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJunioor&layout=compact&theme=react&hide=c,java)](https://github.com/anuraghazra/github-readme-stats)
