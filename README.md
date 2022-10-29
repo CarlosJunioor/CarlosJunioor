@@ -50,4 +50,4 @@ Passionate about **Web3** and NFT's
 ## Github Stats
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosJunioor&theme=react)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJunioor&layout=compact&theme=react&hide=c,java)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJunioor&layout=compact&theme=react&hide=c,java,shell)](https://github.com/anuraghazra/github-readme-stats)
