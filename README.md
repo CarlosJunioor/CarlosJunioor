@@ -23,7 +23,7 @@ Passionate about **Web3** and NFT's
 ## Projects im currently working on
 
 - SouJunior
-- Varona Esports Website
+- Varona Esports Website (on production)
 - Crypto Aviation 
 
 
