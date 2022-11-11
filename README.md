@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/CarlosJuniorDev?logo=twitter&style=fo
 [![@carlosjunior's Holopin board](https://holopin.io/api/user/board?user=carlosjunior)](https://holopin.io/@carlosjunior)
 
 
-### Frontend Developer at @SouJunior, working with Javascript, React.js, TypeScript.
+### Frontend Developer, working with Javascript, React.js, TypeScript.
 
 Im currently doing a career shift from Salesperson to Frontend Development! <br>
 I've been learning Web Development for 6 months and it has really grown on me! It has become my passion to develop cool-looking websites that people love to use.<br>
