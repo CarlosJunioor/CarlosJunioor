@@ -42,8 +42,3 @@ By day I work with **OutSystems O11** (frontend, CSS, DevOps). On my free time I
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ins6nity&theme=react)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ins6nity&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
