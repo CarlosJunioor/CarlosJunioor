@@ -2,7 +2,7 @@
 
 OutSystems Consultant & Frontend Developer based in Portugal 🇵🇹
 
-By day I work with **OutSystems O11 / ODC Studio ** (frontend, CSS, DevOps). 
+By day I work with OutSystems O11 / ODC Studio (frontend and DevOps). 
 
 On my free time I build websites and user experience products, and passionate on learning AI and building the next GEN of AI.
 
