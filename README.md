@@ -18,8 +18,8 @@ By day I work with **OutSystems O11** (frontend, CSS, DevOps). On my free time I
 
 ## 🚀 Projects
 
-- 🐉 **[catchamonsterhub.com](https://catchamonsterhub.com)** — Monster catalog hub
-- 🏝️ **[deparadise.space](https://deparadise.space)** — Personal project
+- 🐉 **[catchamonsterhub.com](https://catchamonsterhub.com)** — #1 wiki for catch a monster game in roblox
+- 🏝️ **[deparadise.space](https://deparadise.space)** — CS2 AI project
 - 💼 **carlosjunior.dev** — Personal portfolio (in progress)
 
 ## 🛠️ Tech Stack
