@@ -1,4 +1,4 @@
-# Hi 👋, I'm Carlos
+# CJ Github specs
 
 OutSystems Consultant & Frontend Developer based in Portugal 🇵🇹
 
