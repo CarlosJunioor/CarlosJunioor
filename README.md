@@ -16,7 +16,7 @@ By day I work with **OutSystems O11** (frontend, CSS, DevOps). On my free time I
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlos-junior)
 [![Holopin](https://img.shields.io/badge/Holopin-1a1a2e?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@carlosjunior)
 
-## 🚀 Projects
+## What I am doing rn for fun
 
 - 🐉 **[catchamonsterhub.com](https://catchamonsterhub.com)** — #1 wiki for catch a monster game in roblox
 - 🏝️ **[deparadise.space](https://deparadise.space)** — CS2 AI project
