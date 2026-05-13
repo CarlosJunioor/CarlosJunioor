@@ -16,7 +16,6 @@ On my free time I build websites and user experience products, and passionate on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjuniordev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/carlosjuniordev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlos-junior)
-[![Holopin](https://img.shields.io/badge/Holopin-1a1a2e?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@carlosjunior)
 
 ## What I am doing rn for fun
 
