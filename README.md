@@ -4,7 +4,7 @@ OutSystems Consultant & Frontend Developer based in Portugal 🇵🇹
 
 By day I work with OutSystems O11 / ODC Studio (frontend and DevOps). 
 
-On my free time I build websites and user experience products, and passionate on learning AI and building the next GEN of AI.
+On my free time I build websites and user experience products, and passionate on learning AI and building the next GEN for AI, and create the foundations for future developers and society.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=carlosjunioor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
