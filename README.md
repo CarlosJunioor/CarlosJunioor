@@ -21,5 +21,5 @@ On my free time I build websites and user experience products, and passionate on
 
 - 🐉 **[catchamonsterhub.com](https://catchamonsterhub.com)** — #1 wiki for catch a monster game in roblox
 - 🏝️ **[deparadise.space](https://deparadise.space)** — CS2 AI project
-- - https://skillzs.dev/ - skills hub for all AI agents
+- 🏝️ skillzs.dev — skills hub for all AI agents
 - 💼 **carlosjunior.dev** — Personal portfolio (in progress)
