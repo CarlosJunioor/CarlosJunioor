@@ -18,7 +18,7 @@ On my free time I build websites and user experience products, and passionate on
 ## What I am doing rn for fun
 
 - 🐉 **[catchamonsterhub.com](https://catchamonsterhub.com)** — #1 wiki for catch a monster game in roblox 50k+ player game
-- - 🐉 **[evomon.wiki](https://www.evomon.wiki/)** — #1 wiki for evomon 40k+ player game
+- 🐉 **[evomon.wiki](https://www.evomon.wiki/)** — #1 wiki for evomon 40k+ player game
 - 🏝️ **[deparadise.space](https://deparadise.space)** — CS2 AI project
 - 🏝️ **[skillzs.dev](https://skillzs.dev/)** — skills hub for all AI agents
 - 💼 **carlosjunior.dev** — Personal portfolio (in progress)
